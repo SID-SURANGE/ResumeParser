@@ -39,19 +39,18 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 
 ## 🖥️ Application Interface
 
-<div align="center" style="display: flex; justify-content: space-around; gap: 20px;">
-    <figure style="text-align: center; flex: 1;">
-        <figcaption><strong>LIGHT THEME</strong></figcaption>
-        <img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="450">
-    </figure>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="400" height="500"></td>
+      <td><img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="400"  height="500"></td>
+    </tr>
+    <tr>
+      <td align="center"><i>ResumeParser LIGHT</i></td>
+      <td align="center"><i>ResumeParser DARK</i></td>
+    </tr>
+  </table>
 </div>
-<div>
-    <figure style="text-align: center; flex: 1;">
-        <figcaption><strong>DARK THEME</strong></figcaption>
-        <img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="500" height="450">
-    </figure>
-</div>
-
 
 ## 🛠️ Tech Stack
 
