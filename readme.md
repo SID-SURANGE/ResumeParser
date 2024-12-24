@@ -42,8 +42,8 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 <div align="center">
   <table>
     <tr>
-      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="400" height="500"></td>
-      <td><img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="400"  height="500"></td>
+      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="400" height="450"></td>
+      <td><img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="400"  height="450"></td>
     </tr>
     <tr>
       <td align="center"><i>ResumeParser LIGHT</i></td>
@@ -162,20 +162,17 @@ API documentation is available at `http://localhost:8000/docs`.
 
 ## Sample Output Preview
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
-    <!-- Input Resume -->
-    <figure style="text-align: center; flex: 1;">
-        <figcaption><strong>Input Resume (<a href="https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt">Overleaf Template</a>)</strong></figcaption>
-        <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="400"  height="600">
-    </figure>
-</div>
-
-<div>
-    <!-- Parser Output -->
-    <figure style="text-align: center; flex: 1;">
-        <figcaption><strong>Parser Output</strong></figcaption>
-        <img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="400" height="600">
-    </figure>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="400" height="600"></td>
+      <td><img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="400"  height="600"></td>
+    </tr>
+    <tr>
+      <td align="center"><i>Input Resume (<a href="https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt">Overleaf Template</a>)</i></td>
+      <td align="center"><i>Parser Output</i></td>
+    </tr>
+  </table>
 </div>
 
 ## 🔄 Future Enhancements
