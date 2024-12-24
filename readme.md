@@ -42,8 +42,8 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 <div align="center">
   <table>
     <tr>
-      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="450" height="550"></td>
-      <td><img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="450"  height="550"></td>
+      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="450" height="500"></td>
+      <td><img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="450"  height="500"></td>
     </tr>
     <tr>
       <td align="center"><i>ResumeParser LIGHT</i></td>
@@ -165,8 +165,8 @@ API documentation is available at `http://localhost:8000/docs`.
 <div align="center">
   <table>
     <tr>
-      <td><img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="450" height="600"></td>
-      <td><img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="450"  height="600"></td>
+      <td><img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="450" height="550"></td>
+      <td><img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="450"  height="550"></td>
     </tr>
     <tr>
       <td align="center"><i>Input Resume (<a href="https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt">Overleaf Template</a>)</i></td>
