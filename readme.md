@@ -39,19 +39,13 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 
 ## 🖥️ Application Interface
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <figure style="text-align: center; margin: 0;">
-        <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
-            LIGHT THEME
-        </figcaption>
+<div align="center" style="display: flex; justify-content: space-around; gap: 20px;">
+    <figure style="text-align: center; flex: 1;">
+        <figcaption><strong>LIGHT THEME</strong></figcaption>
         <img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="450">
     </figure>
-</div>
-<div>
-    <figure style="text-align: center; margin: 0;">
-        <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
-            DARK THEME
-        </figcaption>
+    <figure style="text-align: center; flex: 1;">
+        <figcaption><strong>DARK THEME</strong></figcaption>
         <img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="500" height="450">
     </figure>
 </div>
@@ -167,21 +161,16 @@ API documentation is available at `http://localhost:8000/docs`.
 
 ## Sample Output Preview
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <figure style="text-align: center; margin: 0;">
-        <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
-            Overleaf sample resume - https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt
-        </figcaption>
-        <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="600" height="800">
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px;">
+    <!-- Input Resume -->
+    <figure style="text-align: center; flex: 1;">
+        <figcaption><strong>Input Resume (<a href="https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt">Overleaf Template</a>)</strong></figcaption>
+        <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="400"  height="600">
     </figure>
-</div>
-<div>
-    <figure style="text-align: center; margin: 0;">
-        <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
-            Sample Output
-        </figcaption>
-        <img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="600" height="800">
-
+    <!-- Parser Output -->
+    <figure style="text-align: center; flex: 1;">
+        <figcaption><strong>Parser Output</strong></figcaption>
+        <img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="400" height="600">
     </figure>
 </div>
 
