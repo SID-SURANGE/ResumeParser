@@ -41,16 +41,16 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
     <figure style="text-align: center; margin: 0;">
-        <img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="450">
         <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
             LIGHT THEME
         </figcaption>
+        <img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="450">
     </figure>
     <figure style="text-align: center; margin: 0;">
-        <img src="src/static/images/UI-DARK.png" alt="ResumeParser DARK" width="500" height="450">
         <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
             DARK THEME
         </figcaption>
+        <img src="src/static/images/UI-DARK.png" alt="ResumeParser DARK" width="500" height="450">
     </figure>
 </div>
 
@@ -167,16 +167,17 @@ API documentation is available at `http://localhost:8000/docs`.
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
     <figure style="text-align: center; margin: 0;">
-        <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="600" height="800">
         <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
             Overleaf sample resume - [Overleaf Link](https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt)
         </figcaption>
+        <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="600" height="800">
     </figure>
     <figure style="text-align: center; margin: 0;">
-        <img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="600" height="800">
         <figcaption style="margin-top: 10px; font-size: 14px; color: #666;">
             Sample Output
         </figcaption>
+        <img src="src/static/images/Sample_resume_parsing.png" alt="ResumeParser Output" width="600" height="800">
+
     </figure>
 </div>
 
@@ -209,7 +210,6 @@ For any issues or feature requests:
 - 🐛 Report bugs via GitHub Issues.
 
 <br>
-
 ---
 
 Made with ❤️ by the ResumeParser Team
