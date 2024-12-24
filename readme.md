@@ -44,6 +44,8 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
         <figcaption><strong>LIGHT THEME</strong></figcaption>
         <img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="450">
     </figure>
+</div>
+<div>
     <figure style="text-align: center; flex: 1;">
         <figcaption><strong>DARK THEME</strong></figcaption>
         <img src="src/static/images/UI-Dark.png" alt="ResumeParser DARK" width="500" height="450">
@@ -167,6 +169,9 @@ API documentation is available at `http://localhost:8000/docs`.
         <figcaption><strong>Input Resume (<a href="https://www.overleaf.com/latex/templates/deedy-resume-reversed/hqnwfgjbbddt">Overleaf Template</a>)</strong></figcaption>
         <img src="src/static/images/Overleaf-SampleResume.jpeg" alt="Resume Reference" width="400"  height="600">
     </figure>
+</div>
+
+<div>
     <!-- Parser Output -->
     <figure style="text-align: center; flex: 1;">
         <figcaption><strong>Parser Output</strong></figcaption>
