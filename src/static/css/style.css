@@ -1,0 +1,96 @@
+/*style.css*/
+
+.gradio-container .file-preview {
+  border: none !important;
+}
+
+#markdown-title {
+  /*background: linear-gradient(to right, #ffffff, #82bbf9, #ffffff);*/
+  padding: px;
+  border-radius: 10px;
+  color: rgba(127, 127, 130, 0.991);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  font-size: 48px;
+  font-family: 'Caveat', cursive;
+  text-align: center;
+  height: 1%;
+}
+
+.subtitle {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+#alert_box textarea {
+  background-color: #ffebee !important;
+  color: #d32f2f !important;
+  border: 1px solid #ef5350 !important;
+  font-weight: bold !important;
+  text-align: center !important;
+  font-size: 16px !important;
+}
+
+#alert_box .label {
+  color: #d32f2f !important;
+  font-weight: bold !important;
+  text-align: center !important;
+}
+
+body.light-mode {
+  background-color: white;
+  color: black;
+}
+
+body.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.output-area {
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #dddddd;
+  padding: 10px;
+  overflow-wrap: break-word;
+  max-height: 150px;
+  overflow-y: auto;
+}
+
+th {
+  background-color: #dddddd;
+  text-align: center;
+  color: black;
+}
+
+.summary-table th:first-child {
+  /* Target the first <th> element (Field) */
+  width: 20%;
+}
+
+.summary-table th:last-child {
+  /* Target the last <th> element (Details) */
+  width: 80%;
+}
+
+.issue-table th:first-child {
+  /* Target the first <th> element (Field) */
+  width: 50%;
+}
+
+.issue-table th:last-child {
+  /* Target the last <th> element (Details) */
+  width: 50%;
+}
+
+ul {
+  margin: 0;
+  padding-left: 20px;
+}
