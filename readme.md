@@ -42,7 +42,7 @@ ResumeParser is a powerful AI-driven tool that streamlines resume analysis by au
 <div align="center">
   <table>
     <tr>
-      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="550"></td>
+      <td><img src="src/static/images/UI-LIGHT.png" alt="ResumeParser LIGHT" width="500" height="525"></td>
     </tr>
     <tr>
       <td align="center"><i>ResumeParser LIGHT</i></td>
