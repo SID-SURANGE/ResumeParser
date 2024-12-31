@@ -71,7 +71,7 @@ Before running the application, ensure your system meets the following requireme
 - **RAM**: Minimum 8GB (16GB recommended)
 - **GPU**: Recommended for optimal performance (NVIDIA RTX 3050 or higher)
 
-### Reference System Specifications
+### Reference System Specifications (one on which application was developed)
 - **RAM**: 16 GB DDR5
 - **GPU**: NVIDIA RTX 3060 (6GB)
 - **Processor**: Intel i7-12700H
