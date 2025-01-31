@@ -194,7 +194,7 @@ We are actively working on adding new features:
 - 📊 Complex document handling (e.g., tables, graphics) is being improved.
 
 ## 📄 License
-Licensed under MIT License. See [LICENSE](./LICENSE.txt) for details.
+Licensed under MIT License. See [LICENSE](./LICENSE) for details.
 
 ## 📬 Contact & Support
 
